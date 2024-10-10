@@ -10,7 +10,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
     env:
-      SOUSHUBA_HOSTNAME: ${{ secrets.SOUSHUBA_HOSTNAME }}
+      SOUSHUBA_HOSTNAME: www.soushu2030.com
       SOUSHUBA_USERNAME: 2672046260@qq.com
       SOUSHUBA_PASSWORD: mima102030
 
