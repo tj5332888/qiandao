@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       SOUSHUBA_HOSTNAME: ${{ secrets.SOUSHUBA_HOSTNAME }}
-      SOUSHUBA_USERNAME: ${{ secrets.SOUSHUBA_USERNAME }}
-      SOUSHUBA_PASSWORD: ${{ secrets.SOUSHUBA_PASSWORD }}
+      SOUSHUBA_USERNAME: 2672046260@qq.com
+      SOUSHUBA_PASSWORD: mima102030
 
     steps:
       - name: Check out repository code
